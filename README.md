@@ -1,3 +1,10 @@
+# Proyecto creado con version
+Node v16.20.2
+
+# Para levantar proyecto
+yarn dev  
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
